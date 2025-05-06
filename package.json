@@ -1,0 +1,27 @@
+{
+  "name": "js-hm-handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavchenkoAmalia/js-hm-handlebars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SavchenkoAmalia/js-hm-handlebars/issues"
+  },
+  "homepage": "https://github.com/SavchenkoAmalia/js-hm-handlebars#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4",
+    "parcel-transformer-hbs": "^1.0.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  }
+}
